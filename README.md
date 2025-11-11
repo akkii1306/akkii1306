@@ -13,7 +13,7 @@
 - 🎓 B.Tech CSE Student at **IIIT Bhagalpur**
 - 💻 Passionate about **Full Stack Web Development** & **Software Engineering**
 - 🌱 Currently exploring **MERN Stack**, **Next.js**, and **Open Source**
-- 🧠 Solved **400+ LeetCode** and **200+ Codeforces** problems
+- 🧠 Solved **450+ LeetCode** and **200+ Codeforces** problems
 - 🚀 Always eager to learn, build, and collaborate on impactful projects
 
 ---
